@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/contactCard/static/css/main.849757ba.chunk.css",
+    "main.js": "/contactCard/static/js/main.de047fb6.chunk.js",
+    "main.js.map": "/contactCard/static/js/main.de047fb6.chunk.js.map",
+    "runtime-main.js": "/contactCard/static/js/runtime-main.80e6355c.js",
+    "runtime-main.js.map": "/contactCard/static/js/runtime-main.80e6355c.js.map",
+    "static/js/2.321e9647.chunk.js": "/contactCard/static/js/2.321e9647.chunk.js",
+    "static/js/2.321e9647.chunk.js.map": "/contactCard/static/js/2.321e9647.chunk.js.map",
+    "index.html": "/contactCard/index.html",
+    "static/css/main.849757ba.chunk.css.map": "/contactCard/static/css/main.849757ba.chunk.css.map",
+    "static/js/2.321e9647.chunk.js.LICENSE.txt": "/contactCard/static/js/2.321e9647.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80e6355c.js",
+    "static/js/2.321e9647.chunk.js",
+    "static/css/main.849757ba.chunk.css",
+    "static/js/main.de047fb6.chunk.js"
+  ]
+}
